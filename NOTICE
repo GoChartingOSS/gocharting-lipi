@@ -1,0 +1,40 @@
+gocharting-lipi
+Copyright (c) 2026 GoCharting Inc.
+Licensed under the Apache License, Version 2.0 (see LICENSE). The whole package is under it, the Lipi reference in
+references/lang/ included.
+
+TRADEMARKS
+"GoCharting" and "Lipi" and the associated logos are trademarks of GoCharting Inc..
+The Apache License (section 6) does not grant any right to use these marks.
+GoCharting's policy:
+ - Allowed without asking, if accurate: "compatible with Lipi", "written in Lipi", "for GoCharting", "works with GoCharting",
+   and unmodified copies of this package under its own name.
+ - Not allowed without GoCharting's written permission: using the marks in the name of a product, skill, plugin, package,
+   domain or account; naming a modified, forked or independently implemented language, compiler or documentation "Lipi" or a
+   confusingly similar name; words suggesting official status ("official", "certified", "endorsed by GoCharting").
+ - If you modify this package and redistribute it, mark the changed files (Apache-2.0 section 4(b)), say so clearly and rename
+   the package.
+Lipi is defined by GoCharting's published documentation and its compiler. A version of the documentation that is not an
+unmodified copy is not "the Lipi documentation".
+
+NO AFFILIATION
+This package is not affiliated with, sponsored by or endorsed by the owner of any other platform, product or programming
+language in which a script you convert may be written. Third-party names and marks belong to their owners.
+
+SCRIPTS WRITTEN WITH THIS PACKAGE
+Your AI agent and its model write every script and description; GoCharting does not see, run or review them. They may fail to
+compile or run; omit, alter or misread logic, calculations, inputs, conditions, alerts or signals of the original; behave
+differently from the original in ways that are not readily apparent; contain errors; or include material that belongs to
+someone else. A script that compiles in the GoCharting editor has passed a syntax check, nothing more: it is not thereby
+accurate, complete or equivalent to the original. GoCharting claims no ownership of the scripts and descriptions written for
+you. Rights in a conversion may belong to the owner of the original, and AI-written material may not be protectable at all.
+Convert only code you have the right to convert, and follow the original's licence when you share the result. Rights holders
+may send complaints to legal@gocharting.com.
+
+NO WARRANTY; NOT FINANCIAL ADVICE
+This package and the documentation are provided "as is", without warranty of any kind (Apache-2.0 sections 7 and 8).
+Nothing in this package, and nothing written with it, is investment, financial, trading, tax or legal advice,
+or a recommendation to buy, sell or hold any security, instrument or asset. GoCharting does not evaluate whether any script
+suits any strategy or your circumstances. Trading involves substantial risk of loss. Past, backtested or simulated
+performance does not indicate future results. You are solely responsible for every trading and investment decision you make,
+including one based on a script written with this package: review and test it before using it with real money.

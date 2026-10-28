@@ -1,0 +1,16 @@
+{
+  "name": "gocharting-lipi",
+  "description": "GoCharting's agent skill for Lipi scripts: convert, create and describe.",
+  "owner": {
+    "name": "GoCharting",
+    "url": "https://gocharting.com"
+  },
+  "plugins": [
+    {
+      "name": "gocharting-lipi",
+      "source": "./",
+      "description": "Convert and write Lipi scripts",
+      "version": "0.5.0"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gocharting-lipi",
+  "version": "0.5.0",
+  "description": "Writes Lipi, GoCharting's chart-script language, inside your AI agent: new indicators and strategies from a plain description, scripts written in other languages adapted to Lipi, fixes after the GoCharting editor reports an error, and the public description of a script. It uses the same instructions and Lipi reference as GoCharting's hosted AI script tools. It cannot compile (paste each script into the GoCharting editor), makes no network calls and executes no trades. Use only code you have the rights to use. Scripts are written by AI and results vary: review and test every script before relying on it. Not financial advice.",
+  "author": {
+    "name": "GoCharting",
+    "url": "https://gocharting.com",
+    "email": "support@gocharting.com"
+  },
+  "homepage": "https://gocharting.com",
+  "repository": "https://github.com/GoChartingOSS/gocharting-lipi",
+  "license": "Apache-2.0",
+  "keywords": [
+    "gocharting",
+    "lipi"
+  ],
+  "logo": "assets/logo.svg",
+  "extensions": {
+    "com.openai.interface": {
+      "displayName": "GoCharting Lipi",
+      "shortDescription": "Convert and write Lipi scripts",
+      "longDescription": "Writes Lipi, GoCharting's chart-script language, inside your AI agent: new indicators and strategies from a plain description, scripts written in other languages adapted to Lipi, fixes after the GoCharting editor reports an error, and the public description of a script. It uses the same instructions and Lipi reference as GoCharting's hosted AI script tools. It cannot compile (paste each script into the GoCharting editor), makes no network calls and executes no trades. Use only code you have the rights to use. Scripts are written by AI and results vary: review and test every script before relying on it. Not financial advice.",
+      "developerName": "GoCharting Inc.",
+      "websiteURL": "https://gocharting.com",
+      "privacyPolicyURL": "https://gocharting.com/legal/privacy",
+      "termsOfServiceURL": "https://gocharting.com/legal/terms",
+      "defaultPrompt": [
+        "Make this indicator work on GoCharting: <paste your code>",
+        "Write a GoCharting strategy: buy when the 9 EMA crosses above the 21 EMA, 2% stop loss",
+        "Write the 150-character publish description for my GoCharting script"
+      ]
+    }
+  }
+}
