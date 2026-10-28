@@ -54,7 +54,7 @@ https://gocharting.com/legal/privacy
 
 ## Support
 
-support@gocharting.com
+support@gocharting.com · https://gocharting.com/contact
 
 GoCharting Inc. maintains this repository and does not accept contributions (CONTRIBUTING.md). Security reports: SECURITY.md.
 
@@ -62,4 +62,4 @@ GoCharting Inc. maintains this repository and does not accept contributions (CON
 
 Apache-2.0, the whole package. See LICENSE and NOTICE (trademarks, no affiliation, no warranty, not financial advice).
 
-Version 0.5.1, published by GoCharting Inc.. Generated from GoCharting's AI script tools; do not edit by hand.
+Version 0.5.2, published by GoCharting Inc.. Generated from GoCharting's AI script tools; do not edit by hand.

@@ -3,7 +3,7 @@ name: gocharting-lipi
 description: "Use this skill whenever the user wants a script for GoCharting charts, in GoCharting's Lipi language: converting an indicator or strategy script written in any other language into Lipi, writing a new Lipi indicator or strategy from a plain description, fixing a Lipi script after the GoCharting editor reported an error, or writing the public description of a Lipi script for publishing. Use it even when the user does not say \"Lipi\", for example \"make this indicator work on GoCharting\", \"port my strategy code to GoCharting\" or \"write a 150-character description for my GoCharting script\". It works from its own bundled Lipi reference and makes no network calls."
 license: Apache-2.0
 metadata:
-  version: "0.5.1"
+  version: "0.5.2"
   docs-pack: "cad1b17ca07d"
   prompts: "convert p21, create p101, describe p201"
 ---

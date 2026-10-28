@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.2
+
+- Listing links for Anthropic's directory: documentation, support, privacy policy and terms of service.
+
 ## 0.5.1
 
 - Store manifests: the OpenAI settings in the form OpenAI reads, with a category and icons; keywords as lowercase tags.
