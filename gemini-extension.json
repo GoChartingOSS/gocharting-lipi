@@ -1,5 +1,5 @@
 {
   "name": "gocharting-lipi",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Writes Lipi, GoCharting's chart-script language, inside your AI agent: new indicators and strategies from a plain description, scripts written in other languages adapted to Lipi, fixes after the GoCharting editor reports an error, and the public description of a script. It uses the same instructions and Lipi reference as GoCharting's hosted AI script tools. It cannot compile (paste each script into the GoCharting editor), makes no network calls and executes no trades. Use only code you have the rights to use. Scripts are written by AI and results vary: review and test every script before relying on it. Not financial advice."
 }

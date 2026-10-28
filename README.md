@@ -62,4 +62,4 @@ GoCharting Inc. maintains this repository and does not accept contributions (CON
 
 Apache-2.0, the whole package. See LICENSE and NOTICE (trademarks, no affiliation, no warranty, not financial advice).
 
-Version 0.5.0, published by GoCharting Inc.. Generated from GoCharting's AI script tools; do not edit by hand.
+Version 0.5.1, published by GoCharting Inc.. Generated from GoCharting's AI script tools; do not edit by hand.
